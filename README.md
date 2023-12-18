@@ -1,4 +1,4 @@
 # ProyectoEjemplo
 Este es un repositorio para practicar.
 
-Autor: Brian Laguna
+Autor: Brian Armando Laguna Robles.
